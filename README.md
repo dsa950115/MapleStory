@@ -27,6 +27,6 @@
 
 Reference
 
-스타캐치 곱연산 퍼센티지 참고 및 변경된 확률표
+##스타캐치 곱연산 퍼센티지 참고 및 변경된 확률표
 
 참고 : http://www.inven.co.kr/board/maple/2304/14600
